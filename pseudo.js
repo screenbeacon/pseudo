@@ -1,6 +1,6 @@
 (function (window, document, undefined) {
   var ps = function(config) {
-    this.version = '0.0.1';
+    this.version = '0.0.2';
     this.sheet = psLibSheet;
     this.config = config;
     this.cache = this.cache || [];
