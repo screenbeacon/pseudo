@@ -1,0 +1,25 @@
+{
+  "name": "pseudo",
+  "version": "0.0.1",
+  "homepage": "https://github.com/screenbeacon/pseudo",
+  "authors": [
+    "Jordan Humphreys <jordan@screenbeacon.com>"
+  ],
+  "description": "Style pseudo elements with JavaScript",
+  "main": "pseudo.js",
+  "keywords": [
+    "pseudo",
+    "selector",
+    "javascript",
+    "css",
+    "style"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
