@@ -6,7 +6,7 @@ Pseudo allows you to style CSS pseudo elements like `:before` and `:after` with 
 Example:
 
 ```
-pseudo('.tooltip:after', {
+pseudo.style('.tooltip:after', {
   bottom: '15px',
   left: '27px'
 });
